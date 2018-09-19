@@ -1,0 +1,25 @@
+body, h1, h2, h3, h4, a, p {
+	margin: 0;
+	font-family: "Trebuchet MS";
+}
+
+* {
+	box-sizing: border-box;
+	transform:1.2;
+}
+
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height: 100vh;
+}
+.mid-content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.dz1{
+	margin-right: 250px;
+}
